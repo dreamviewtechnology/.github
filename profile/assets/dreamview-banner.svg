@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Dreamview Technology</title>
+  <desc id="desc">Websites. Custom software. Applied AI. Thoughtful design. Practical engineering.</desc>
+  <rect width="1200" height="300" rx="24" fill="#0b0d12"/>
+  <path d="M835 300 1135 0M935 300 1200 35M1035 300 1200 135" fill="none" stroke="#242333" stroke-width="1.5"/>
+  <circle cx="1100" cy="88" r="112" fill="none" stroke="#292738" stroke-width="1.5"/>
+  <g transform="translate(60 75) scale(2.05)">
+    <rect width="64" height="64" rx="15" fill="#151722"/>
+    <path fill="#c6b4ff" fill-rule="evenodd" d="M9 22h12c16 0 24 6 24 17s-8 17-24 17H9V22Zm9 9v16h3c10 0 15-2 15-8s-5-8-15-8h-3Z"/>
+    <path d="M46 9h10v10M56 9 44 21" fill="none" stroke="#d8caff" stroke-width="3.25" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="225" y="100" fill="#c6b4ff" font-size="12" font-weight="700" letter-spacing="3">DREAMVIEW TECHNOLOGY</text>
+    <text x="223" y="155" fill="#f5f4fa" font-size="39" font-weight="600" letter-spacing="-1">Thoughtful design.</text>
+    <text x="223" y="203" fill="#c6b4ff" font-size="39" font-weight="600" letter-spacing="-1">Practical engineering.</text>
+    <text x="225" y="242" fill="#b7bac8" font-size="17">Websites. Custom software. Applied AI.</text>
+    <text x="1140" y="265" text-anchor="end" fill="#b7bac8" font-size="12">dreamviewtechnology.com</text>
+  </g>
+</svg>
