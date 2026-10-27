@@ -41,14 +41,20 @@ A website built from scratch by Dreamview Technology, bringing DJ performances, 
 
 **[Read the approved client case study ↗](https://dreamviewtechnology.com/work/dj-meet/)**
 
+### Client delivery · Hina’s Collection
+
+A handmade jewellery storefront connected to catalogue, categories, stock and owner order operations. Direct UPI payments use owner receipt verification; automatic gateway verification is deferred.
+
+**[Explore the client storefront ↗](https://hinascollection.netlify.app/)** · **[Case study ↗](https://dreamviewtechnology.com/work/hinas-collection/)**
+
 ### Founder engineering · Independent projects
 
 These projects demonstrate Chintan’s engineering experience. They are separate from Dreamview client contracts.
 
 | Project | Engineering focus |
 | :--- | :--- |
-| **[TriageAI / SympDirect](https://dreamviewtechnology.com/work/triageai/)** | An educational capstone connecting structured intake, LightGBM inference, safety-rule escalation, clinician review and reporting. **Not a validated clinical deployment.** [Source ↗](https://github.com/chintan-02/triageai-esi-care-routing) |
-| **[RegImpact AI](https://dreamviewtechnology.com/work/regimpact-ai/)** | An independent document-intelligence project connecting regulatory changes, evidence retrieval and authorized impact review. **Not a legal-advice service.** [Source ↗](https://github.com/chintan-02/regimpact-ai) |
+| **[TriageAI / SympDirect](https://dreamviewtechnology.com/work/triageai/)** | A live educational demo connecting structured intake, LightGBM inference, safety-rule escalation, clinician review and reporting. [Live demo ↗](https://triageai-chintan-staging.netlify.app/) **Not a validated clinical deployment.** [Source ↗](https://github.com/chintan-02/triageai-esi-care-routing) |
+| **[RegImpact AI](https://dreamviewtechnology.com/work/regimpact-ai/)** | A document-intelligence system connecting regulatory changes, hybrid retrieval and authorized impact review. v0.5.0 verified in Azure staging; staging is intentionally ephemeral, with no always-on demo. **Not a legal-advice service.** [Source ↗](https://github.com/chintan-02/regimpact-ai) |
 
 ## How we work
 
