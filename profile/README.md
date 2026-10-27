@@ -1,92 +1,74 @@
 <p align="center">
-  <a href="https://dreamviewtechnology.com/">
-    <img src="assets/dreamview-banner.svg" alt="Dreamview Technology — Thoughtful design. Practical engineering. Websites, custom software and applied AI." width="1200" />
-  </a>
+  <a href="https://dreamviewtechnology.com/"><img src="assets/dreamview-banner.svg" alt="Dreamview Technology — AI applications, connected software and business websites" width="1200" /></a>
 </p>
 
-<p align="center">
-  <strong>From a clearer online presence to a workflow that works better.</strong><br />
-  Founder-led · India-registered · Built around your business
-</p>
+<p align="center"><strong>AI applications. Connected software. Built for your business.</strong><br />Founder-led · India-registered · Remote collaboration by agreement</p>
 
 <p align="center">
-  <a href="https://dreamviewtechnology.com/"><strong>Visit our website</strong></a> &nbsp;·&nbsp;
-  <a href="https://dreamviewtechnology.com/work/">Explore our work</a> &nbsp;·&nbsp;
+  <a href="https://dreamviewtechnology.com/">Website</a> ·
+  <a href="https://dreamviewtechnology.com/solutions/">AI solutions</a> ·
+  <a href="https://dreamviewtechnology.com/work/">Work & evidence</a> ·
+  <a href="https://dreamviewtechnology.com/engagements/">Engagements</a> ·
   <a href="https://dreamviewtechnology.com/contact/"><strong>Discuss your project ↗</strong></a>
 </p>
 
----
+## Build the system behind the outcome
 
-## Technology that follows the work
+**Dreamview Technology builds AI applications, custom software and business websites for document-heavy and operational workflows.** We connect the interface, data, integrations and review process so the result can become part of everyday work.
 
-Dreamview Technology builds business websites, custom applications and practical AI workflows. Work directly with **[Chintan Patel](https://github.com/chintan-02)**, founder and AI / full-stack engineer, from the first conversation through implementation and handover.
+Work directly with **[Chintan Patel](https://github.com/chintan-02)**, founder and Applied AI / Full-Stack Systems Engineer, from discovery through implementation and handover. International projects are assessed for fit, time-zone overlap, data handling and operating requirements.
 
-We start with the problem, the people using the system and a clear definition of what needs to work.
+## Solutions for a defined business task
 
-## What we build
+| Solution | What a scoped engagement can deliver |
+| --- | --- |
+| **[Knowledge assistants & RAG](https://dreamviewtechnology.com/solutions/knowledge-assistants/)** | Search approved documents, cite sources, handle insufficient evidence and evaluate answer support. |
+| **[Document workflows](https://dreamviewtechnology.com/solutions/document-workflows/)** | Extract proposed fields, validate inputs, review exceptions and export approved records. |
+| **[AI agents & tool integration](https://dreamviewtechnology.com/solutions/workflow-integrations/)** | Connect approved APIs to a bounded task, with permissions, approvals, recovery and activity history. |
+| **[AI evaluation & improvement](https://dreamviewtechnology.com/solutions/ai-evaluation/)** | Establish a baseline, diagnose failures, assess latency/cost and make regression checks repeatable. |
+| **[Custom software](https://dreamviewtechnology.com/services/custom-software/)** | Purpose-built applications, dashboards, Python APIs and connected owner or team workflows. |
+| **[Business websites](https://dreamviewtechnology.com/services/websites/)** | Original interfaces, service pages, ecommerce scope and useful enquiry journeys. |
 
-| Service | A useful starting point |
-| :--- | :--- |
-| **[Business websites ↗](https://dreamviewtechnology.com/services/websites/)** | Responsive service pages, galleries and clear enquiry journeys that help visitors understand your offer and take the next step. |
-| **[Custom software ↗](https://dreamviewtechnology.com/services/custom-software/)** | Web applications, Python APIs, internal dashboards and integrations shaped around a specific workflow. |
-| **[Applied AI & automation ↗](https://dreamviewtechnology.com/services/applied-ai/)** | Document search, evidence-linked answers and bounded automation, with evaluation, review and operating costs considered from the start. |
+GenAI, RAG, ML and integration choices follow the task. MCP, multimodal processing and fine-tuning are assessed against specific requirements; they are not presented as completed enterprise engagements. [Explore capability scope ↗](https://dreamviewtechnology.com/solutions/#capabilities)
 
-Explore our approach for **[events and creative businesses](https://dreamviewtechnology.com/industries/events/)**, **[service businesses](https://dreamviewtechnology.com/industries/service-businesses/)** and **[startups and small teams](https://dreamviewtechnology.com/industries/startups/)**.
+## Client delivery
 
-## Work with context
+| Client | Delivered experience |
+| --- | --- |
+| **[Hina’s Collection](https://dreamviewtechnology.com/work/hinas-collection/)** | Handmade-brand ecommerce storefront and owner studio connecting catalogue, stock, checkout and order operations. Direct UPI uses owner receipt verification. |
+| **[Meet Sound & Events / DJ Meet](https://dreamviewtechnology.com/work/dj-meet/)** | Photography-led service website, event gallery and reviewable WhatsApp enquiry draft; booking confirmation stays with the business. |
 
-### Client delivery · Meet Sound & Events / DJ Meet
+Client source remains private. Client assets retain their ownership. Business-impact metrics and testimonials are published only with evidence and approval.
 
-A website built from scratch by Dreamview Technology, bringing DJ performances, sound and lighting services, event photography and a WhatsApp enquiry-draft journey into one experience.
+## Independent founder engineering
 
-**[Read the approved client case study ↗](https://dreamviewtechnology.com/work/dj-meet/)**
+These projects demonstrate Chintan’s engineering work. They are separate from Dreamview client contracts.
 
-### Client delivery · Hina’s Collection
+| Project | Evidence and delivery state |
+| --- | --- |
+| **[TriageAI / SympDirect](https://dreamviewtechnology.com/work/triageai/)** | Evaluated ML inference, reviewable extraction, explicit safety escalation, audit/PDF workflow and cloud operation. [Live educational demo ↗](https://triageai-chintan-staging.netlify.app/) · Synthetic data only; not clinically validated. [Source](https://github.com/chintan-02/triageai-esi-care-routing) |
+| **[RegImpact AI](https://dreamviewtechnology.com/work/regimpact-ai/)** | Hybrid retrieval, document lineage, authorized review, async processing and retained Azure release evidence. v0.5.0 verified in staging; staging intentionally ephemeral. Not production-approved or legal advice. [Source](https://github.com/chintan-02/regimpact-ai) |
 
-A handmade jewellery storefront connected to catalogue, categories, stock and owner order operations. Direct UPI payments use owner receipt verification; automatic gateway verification is deferred.
+## A delivery relationship with clear responsibilities
 
-**[Explore the client storefront ↗](https://hinascollection.netlify.app/)** · **[Case study ↗](https://dreamviewtechnology.com/work/hinas-collection/)**
+**Discover → Define → Build & review → Verify → Hand over → Care**
 
-### Founder engineering · Independent projects
+- **Discovery:** workflow map, data/integration assessment, acceptance plan and scoped proposal.
+- **Pilot or build:** one defined release, review milestones, appropriate evaluation and documented handover.
+- **Ongoing care:** a separate agreement for maintenance, release checks and planned improvements.
 
-These projects demonstrate Chintan’s engineering experience. They are separate from Dreamview client contracts.
+Source access, account ownership, data handling, third-party costs, currency, milestones and support commitments are agreed before delivery. AI outputs and consequential actions receive the review appropriate to the use case.
 
-| Project | Engineering focus |
-| :--- | :--- |
-| **[TriageAI / SympDirect](https://dreamviewtechnology.com/work/triageai/)** | A live educational demo connecting structured intake, LightGBM inference, safety-rule escalation, clinician review and reporting. [Live demo ↗](https://triageai-chintan-staging.netlify.app/) **Not a validated clinical deployment.** [Source ↗](https://github.com/chintan-02/triageai-esi-care-routing) |
-| **[RegImpact AI](https://dreamviewtechnology.com/work/regimpact-ai/)** | A document-intelligence system connecting regulatory changes, hybrid retrieval and authorized impact review. v0.5.0 verified in Azure staging; staging is intentionally ephemeral, with no always-on demo. **Not a legal-advice service.** [Source ↗](https://github.com/chintan-02/regimpact-ai) |
+[Engagement options](https://dreamviewtechnology.com/engagements/) · [Delivery, data & ownership](https://dreamviewtechnology.com/delivery-and-data/)
 
-## How we work
+## Start with the workflow
 
-**Understand → Scope → Build & review → Handover**
+Tell us what needs to improve, who uses the process, your country/time zone and any timing or budget constraints. Keep credentials and confidential records out of the initial enquiry.
 
-- **Understand the workflow:** clarify the users, current friction, content and data.
-- **Agree on a focused scope:** define deliverables, constraints and acceptance checks.
-- **Review working software:** test useful paths, important failures and integration boundaries.
-- **Prepare ownership and handover:** document setup, recurring services and maintenance responsibilities.
+**[Discuss your project ↗](https://dreamviewtechnology.com/contact/)** · **[Email Chintan](mailto:chintanpatel5568@gmail.com)**
 
-For AI work, compare against a simpler baseline and evaluate evidence quality, errors, latency and cost. Human review belongs wherever the consequences require it.
-
-**Engineering toolkit:** Python · FastAPI · PostgreSQL · React · TypeScript · Docker · GitHub Actions  
-Tools are selected for the project; a larger stack is not the objective.
-
-## Start with a useful conversation
-
-Tell us what you want to improve, who it is for and any timing or constraints. Keep initial enquiries free of credentials and confidential records.
-
-**[Discuss your project ↗](https://dreamviewtechnology.com/contact/)** &nbsp;·&nbsp;
-**[Email Chintan](mailto:chintanpatel5568@gmail.com)**
-
-Planning first? Explore our **[project brief guide](https://dreamviewtechnology.com/resources/project-brief/)** and **[AI pilot planning guide](https://dreamviewtechnology.com/resources/ai-pilot-planning/)**.
+[Professional & document-heavy teams](https://dreamviewtechnology.com/industries/professional-services/) · [Small operational teams](https://dreamviewtechnology.com/industries/operations/) · [Project brief guide](https://dreamviewtechnology.com/resources/project-brief/)
 
 ---
 
-<p align="center">
-  <strong>Dreamview Technology</strong><br />
-  Founded and led by <a href="https://github.com/chintan-02">Chintan Patel</a><br />
-  <a href="https://dreamviewtechnology.com/">Business website</a> ·
-  <a href="https://chintan-patel-ai.netlify.app/">Founder’s personal portfolio</a> ·
-  <a href="https://www.linkedin.com/in/chintan-patel-ai/">LinkedIn</a><br />
-  <a href="https://dreamviewtechnology.com/privacy/">Privacy</a> ·
-  <a href="https://dreamviewtechnology.com/security/">Website security</a>
-</p>
+<p align="center"><strong>Dreamview Technology</strong><br />Founded and led by <a href="https://github.com/chintan-02">Chintan Patel</a><br /><a href="https://dreamviewtechnology.com/">Business website</a> · <a href="https://chintan-patel-ai.netlify.app/">Founder portfolio</a> · <a href="https://www.linkedin.com/in/chintan-patel-ai/">LinkedIn</a><br /><a href="https://dreamviewtechnology.com/privacy/">Privacy</a> · <a href="https://dreamviewtechnology.com/security/">Website security</a></p>
